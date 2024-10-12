@@ -1,0 +1,15 @@
+G:\local disk\Practice\Database\bin\Debug\net8.0\Database.deps.json
+G:\local disk\Practice\Database\bin\Debug\net8.0\Database.runtimeconfig.json
+G:\local disk\Practice\Database\bin\Debug\net8.0\Database.dll
+G:\local disk\Practice\Database\bin\Debug\net8.0\Database.pdb
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.sourcelink.json
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.dll
+G:\local disk\Practice\Database\obj\Debug\net8.0\refint\Database.dll
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.pdb
+G:\local disk\Practice\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
+G:\local disk\Practice\Database\obj\Debug\net8.0\ref\Database.dll

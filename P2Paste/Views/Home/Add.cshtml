@@ -1,0 +1,35 @@
+﻿@model Database.Entity.EmployeeModel
+<style>
+	.hello {
+		width: 200px;
+	}
+</style>
+<form asp-action="Add" asp-controller="Home" method="post" class="align-content-center ">
+	<input asp-for="Id" type="hidden" />
+
+	<div>
+		<label>Name</label>
+		<input class="form-control hello" asp-for="Name" type="text" />
+	</div>
+
+	<div>
+		<label>Address</label>
+		<input class="form-control hello" asp-for="Address" type="text" />
+	</div>
+
+	<div>
+		<label>Gender</label>
+		<input class="form-control hello" asp-for="Gender" type="text" />
+	</div>
+
+	<div>
+		<label>salary</label>
+		<input class="form-control hello" asp-for="salary" type="text" />
+	</div>
+
+	
+	<br />
+	<br />
+
+	<button type="submit" class="btn btn-success">Submit</button>
+</form>
